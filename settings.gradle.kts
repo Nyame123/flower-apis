@@ -1,1 +1,1 @@
-rootProject.name = "flower-apis"
+rootProject.name = "flower-api"
